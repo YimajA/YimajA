@@ -1,10 +1,11 @@
 # Hello, I'm Yimaj Ahmed
 <a href="https://www.linkedin.com/in/yimaj-ahmed-ba795b251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity professional with a Bachelor’s degree in Computer Engineering from the Georgia Institute of Technology with
-concentrations in Cybersecurity and Cloud Computing. Driven to enhance security through analyzing complex threats and reverse
-engineering malware. Proficient in penetration testing, network analysis, and risk assessment. I am Actively seeking to leverage my
-technical acumen and passion for cybersecurity to contribute to the mission of dynamic cyber defense and threat intelligence.
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems, especially in the realm of cybersecurity.
+
+## Objective
+
+My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to contribute to dynamic cyber defense and threat intelligence as a cybersecurity professional.
 
 ## Education
 
@@ -20,6 +21,7 @@ technical acumen and passion for cybersecurity to contribute to the mission of d
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Reverse Engineering Malware                   | Reverse Engineering Malware Project |
+| Reverse Engineering Android Apps              | Currently Reverse Engineering an XML Android App |
 | Network Traffic Monitoring and Analysis       | Network Monitoring and Scanning Project |
 | Penetration Testing                           | Analyzing a DoS Attack with Wireshark |
 | Vulnerability Scanning                        | Network Monitoring and Scanning Project |
