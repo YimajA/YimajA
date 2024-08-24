@@ -10,6 +10,8 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 ## Education
 
 **Georgia Institute of Technology | Atlanta, GA**  
+<img src="https://img.shields.io/badge/Georgia%20Tech-F1C40F?style=for-the-badge&logo=georgia-tech&logoColor=white" />
+
 *Bachelor of Science in Computer Engineering, Honors*  
 *Concentrations: Cybersecurity and Distributed System & Software Design*  
 *January 2020 – May 2024*
@@ -86,11 +88,15 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 ## Experience
 
 **Mastercard | Remote | Summer 2024**  
+<img src="https://img.shields.io/badge/Mastercard-EB001B?style=for-the-badge&logo=mastercard&logoColor=white" />
+
 *Cyber Security Analyst Intern*  
 - Analyzed and identified business areas needing enhanced security training and implemented new procedures.
 - Assisted in identifying and reporting security threats such as phishing.
 
 **Clifford Chance Law Firm | Remote | Spring 2023**  
+<img src="https://img.shields.io/badge/Clifford%20Chance-000000?style=for-the-badge&logo=clifford-chance&logoColor=white" />
+
 *Cyber Security Intern*  
 - Assisted clients with legal issues relating to cyber breaches and notified stakeholders of data breaches.
 - Provided guidance on responding to an ICO Dawn Raid for online travel companies.
@@ -100,3 +106,4 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 - [Reverse Engineering Malware Project](#) - Reverse-engineered and analyzed a diverse set of malware samples to understand their behavior, attack mechanisms, and potential impact on systems.
 - [Network Monitoring and Scanning Project](#) - Developed and executed a network monitoring and scanning system to analyze network traffic, identify devices, and assess network security.
 - [Analyzing a DoS Attack with Wireshark](#) - Applied practical network security analysis skills by scrutinizing a Denial of Service (DoS) attack using Wireshark.
+
