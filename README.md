@@ -15,7 +15,7 @@ technical acumen and passion for cybersecurity to contribute to the mission of d
 *Concentrations: Cybersecurity and Distributed System & Software Design*  
 *January 2020 – May 2024*
 
-## Skills
+## Cybersecurity Skills
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
