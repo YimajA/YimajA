@@ -7,6 +7,13 @@ I am a recent graduate with a profound interest in technology and a dedication t
 
 My journey in computer engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to contribute to dynamic cyber defense and threat intelligence as a cybersecurity professional.
 
+## Education
+
+**Georgia Institute of Technology | Atlanta, GA**  
+*Bachelor of Science in Computer Engineering, Honors*  
+*Concentrations: Cybersecurity and Distributed System & Software Design*  
+*January 2020 – May 2024*
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -75,6 +82,19 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-34A853?&style=for-the-badge&logo=Google&logoColor=white" />
 </div>
+
+## Experience
+
+**Mastercard | Remote | Summer 2024**  
+*Cyber Security Analyst Intern*  
+- Analyzed and identified business areas needing enhanced security training and implemented new procedures.
+- Assisted in identifying and reporting security threats such as phishing.
+
+**Clifford Chance Law Firm | Remote | Spring 2023**  
+*Cyber Security Intern*  
+- Assisted clients with legal issues relating to cyber breaches and notified stakeholders of data breaches.
+- Provided guidance on responding to an ICO Dawn Raid for online travel companies.
+- Formulated defensive strategies for a client with data center operations to respond to breaches.
 
 ## Projects
 - [Reverse Engineering Malware Project](#) - Reverse-engineered and analyzed a diverse set of malware samples to understand their behavior, attack mechanisms, and potential impact on systems.
