@@ -103,7 +103,9 @@ technical acumen and passion for cybersecurity to contribute to the mission of d
 - Formulated defensive strategies for a client with data center operations to respond to breaches.
 
 ## Projects
-- [Reverse Engineering Malware Project](#) - Reverse-engineered and analyzed a diverse set of malware samples to understand their behavior, attack mechanisms, and potential impact on systems.
-- [Network Monitoring and Scanning Project](#) - Developed and executed a network monitoring and scanning system to analyze network traffic, identify devices, and assess network security.
-- [Analyzing a DoS Attack with Wireshark](#) - Applied practical network security analysis skills by scrutinizing a Denial of Service (DoS) attack using Wireshark.
+- [Reverse Engineering Malware Project](Reverse-Engineering-Malware-Project.md) - Reverse-engineered and analyzed a diverse set of malware samples to understand their behavior, attack mechanisms, and potential impact on systems.
+- [Network Monitoring and Scanning Project](Network-Monitoring-and-Scanning-Project.md) - Developed and executed a network monitoring and scanning system to analyze network traffic, identify devices, and assess network security.
+- [Analyzing a DoS Attack with Wireshark](Analyzing-DOS-Attack-with-Wireshark.md) - Applied practical network security analysis skills by scrutinizing a Denial of Service (DoS) attack using Wireshark.
+- [Reverse Engineering Android Apps](Reverse-Engineering-Android-Apps.md) - Reverse-engineered Android applications to understand their code structure, behavior, and potential vulnerabilities.
+
 
