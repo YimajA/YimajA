@@ -10,6 +10,7 @@ technical acumen and passion for cybersecurity to contribute to the mission of d
 
 **Georgia Institute of Technology | Atlanta, GA**  
 <img src="https://img.shields.io/badge/Georgia%20Tech-F1C40F?style=for-the-badge&logo=georgia-tech&logoColor=white" />
+
 *Bachelor of Science in Computer Engineering, Honors*  
 *Concentrations: Cybersecurity and Distributed System & Software Design*  
 *January 2020 – May 2024*
