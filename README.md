@@ -24,6 +24,14 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 
 ## Tools
 
+### Reverse Engineering
+<div>
+    <img src="https://img.shields.io/badge/-IDA_Pro-333333?&style=for-the-badge&logo=IDAPro&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OllyDBG-4B275F?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JADX-3DDC84?&style=for-the-badge&logo=Android&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Android_Studio-3DDC84?&style=for-the-badge&logo=AndroidStudio&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -42,6 +50,11 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+### Web Security
+<div>
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF7A00?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
 </div>
 
 ### Programming
