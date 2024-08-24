@@ -3,7 +3,7 @@
 
 I am a Cybersecurity professional with a Bachelor’s degree in Computer Engineering from the Georgia Institute of Technology with
 concentrations in Cybersecurity and Cloud Computing. Driven to enhance security through analyzing complex threats and reverse
-engineering malware. Proficient in penetration testing, network analysis, and risk assessment. Actively seeking to leverage my
+engineering malware. Proficient in penetration testing, network analysis, and risk assessment. I am Actively seeking to leverage my
 technical acumen and passion for cybersecurity to contribute to the mission of dynamic cyber defense and threat intelligence.
 
 ## Education
