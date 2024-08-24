@@ -21,7 +21,7 @@ My journey in computer engineering has led me to develop a passion for cybersecu
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Reverse Engineering Malware                   | Reverse Engineering Malware Project |
-| Reverse Engineering Android Apps              | Currently Reverse Engineering an XML Android App |
+| Reverse Engineering Android Apps              | Trellix Android CTFs |
 | Network Traffic Monitoring and Analysis       | Network Monitoring and Scanning Project |
 | Penetration Testing                           | Analyzing a DoS Attack with Wireshark |
 | Vulnerability Scanning                        | Network Monitoring and Scanning Project |
