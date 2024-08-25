@@ -107,5 +107,6 @@ technical acumen and passion for cybersecurity to contribute to the mission of d
 - [Network Monitoring and Scanning Project](Network-Monitoring-and-Scanning-Project.md) - Developed and executed a network monitoring and scanning system to analyze network traffic, identify devices, and assess network security.
 - [Analyzing a DoS Attack with Wireshark](Analyzing-DOS-Attack-with-Wireshark.md) - Applied practical network security analysis skills by scrutinizing a Denial of Service (DoS) attack using Wireshark.
 - [Reverse Engineering Android Apps](Reverse-Engineering-Android-Apps.md) - Reverse-engineered Android applications to understand their code structure, behavior, and potential vulnerabilities.
+- [Building a Security Operations Center with Microsoft Sentinel](building-soc-with-sentinel.md) - Deployed a SIEM using Microsoft Sentinel, configured custom alert rules, and integrated threat intelligence feeds to monitor and respond to security threats in real-time.
 
 
