@@ -63,7 +63,6 @@ The goal of this project was to develop and execute a network monitoring and sca
      - Correlated the findings from different tools to get a comprehensive view of the network’s security posture.
      - Prepared a detailed report documenting the discovered devices, services, potential vulnerabilities, and recommendations for improving network security.
    - **Outcome:** Provided actionable insights into the network’s security vulnerabilities and suggested measures to mitigate identified risks.
-   - 
 
 ## Conclusion
 
