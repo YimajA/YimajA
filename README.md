@@ -1,10 +1,7 @@
 # Hello, I'm Yimaj Ahmed
 <a href="https://www.linkedin.com/in/yimaj-ahmed-ba795b251/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a Cybersecurity professional with a Bachelor’s degree in Computer Engineering from the Georgia Institute of Technology with
-concentrations in Cybersecurity and Cloud Computing. Driven to enhance security through analyzing complex threats and reverse
-engineering malware. Proficient in penetration testing, network analysis, and risk assessment. I am actively seeking to leverage my
-technical acumen and passion for cybersecurity to contribute to the mission of dynamic cyber defense and threat intelligence.
+I am a Cybersecurity professional with a Bachelor’s degree in Computer Engineering from the Georgia Institute of Technology with concentrations in Cybersecurity and Cloud Computing. Driven to enhance security through analyzing complex threats and reverse engineering malware. Proficient in penetration testing, network analysis, and risk assessment. I am actively seeking to leverage my technical acumen and passion for cybersecurity to contribute to the mission of dynamic cyber defense and threat intelligence.
 
 ## Education
 
@@ -30,6 +27,7 @@ technical acumen and passion for cybersecurity to contribute to the mission of d
 | Digital Forensics                             | Reverse Engineering Malware Project |
 | Threat Modeling                               | Experience at Clifford Chance Law Firm |
 | Firewall Configuration and Management         | Network Monitoring and Scanning Project |
+| **Cloud Computing**: Azure, AWS               | Building a Security Operations Center with Microsoft Sentinel |
 
 ## Tools
 
@@ -78,6 +76,12 @@ technical acumen and passion for cybersecurity to contribute to the mission of d
     <img src="https://img.shields.io/badge/-VHDL-4B275F?&style=for-the-badge&logoColor=white" />
 </div>
 
+### Cloud Computing
+<div>
+    <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-FF9900?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+</div>
+
 ## Certifications
 
 <div>
@@ -108,5 +112,6 @@ technical acumen and passion for cybersecurity to contribute to the mission of d
 - [Analyzing a DoS Attack with Wireshark](Analyzing-DOS-Attack-with-Wireshark.md) - Applied practical network security analysis skills by scrutinizing a Denial of Service (DoS) attack using Wireshark.
 - [Reverse Engineering Android Apps](Reverse-Engineering-Android-Apps.md) - Reverse-engineered Android applications to understand their code structure, behavior, and potential vulnerabilities.
 - [Building a Security Operations Center with Microsoft Sentinel](Building-SOC-with-Sentinel.md) - Deployed a SIEM using Microsoft Sentinel, configured custom alert rules, and integrated threat intelligence feeds to monitor and respond to security threats in real-time.
+
 
 
