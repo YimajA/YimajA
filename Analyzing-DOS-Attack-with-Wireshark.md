@@ -17,5 +17,6 @@ The objective of this project was to apply practical network security analysis s
 
 Every screenshot should have some text explaining what the screenshot is about.
 
+![SYNFlood](images/image7.png)
 *Ref 1: SYN flood attack pattern captured in Wireshark*
 
