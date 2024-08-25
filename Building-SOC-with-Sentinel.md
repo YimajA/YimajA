@@ -40,14 +40,14 @@ The purpose of this lab was to build a fully operational Security Operations Cen
    - Developed a custom alert rule in Sentinel to detect successful RDP sign-ins, which could indicate a brute-force attack.
    - The rule was designed to trigger an alert whenever a successful RDP login was detected, providing real-time notifications of potential threats.
 
-   ![Custom Alert Rule](images/Screenshot-2024-08-24-2.png)
+   ![Custom Alert Rule](images/image2.png)
    *Ref 2: Custom alert rule configuration in Sentinel*
 
 5. **Testing and Simulating the SIEM:**
    - Simulated a brute-force attack by attempting multiple RDP logins on the VM.
    - Verified that the custom alert rule triggered correctly and that logs were continuously collected and analyzed in Sentinel.
 
-   ![Incident Response](images/Screenshot-2024-08-24-3.png)
+   ![Incident Response](images/image3.png)
    *Ref 3: Incident response triggered by successful RDP sign-in*
 
 ## Results
