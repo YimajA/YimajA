@@ -27,7 +27,7 @@ I am a Cybersecurity professional with a Bachelor’s degree in Computer Enginee
 | Digital Forensics                             | Reverse Engineering Malware Project |
 | Threat Modeling                               | Experience at Clifford Chance Law Firm |
 | Firewall Configuration and Management         | Network Monitoring and Scanning Project |
-| **Cloud Computing**: Azure, AWS               | Building a Security Operations Center with Microsoft Sentinel |
+| Cloud Security                                | Building a Security Operations Center with Microsoft Sentinel |
 
 ## Tools
 
