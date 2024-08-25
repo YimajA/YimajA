@@ -45,8 +45,6 @@ This project focused on reverse engineering Android applications to understand t
      - Identified potential attack vectors, such as exposed API keys or vulnerable third-party libraries.
    - **Outcome:** Discovered several potential security vulnerabilities, including improper storage of sensitive data and insecure API calls.
 
-   ![Code Analysis in Android Studio](images/image10.png)
-   *Ref 2: Analyzing the decompiled code in Android Studio to assess security practices.*
 
 ### 4. **Dynamic Analysis with Frida:**
    - **Objective:** Observe the app's behavior at runtime to identify dynamic vulnerabilities.
