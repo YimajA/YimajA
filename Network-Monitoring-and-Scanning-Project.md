@@ -19,5 +19,6 @@ The goal of this project was to develop and execute a network monitoring and sca
 
 Every screenshot should have some text explaining what the screenshot is about.
 
+![Wireshark](images/image8.png)
 *Ref 1: Network traffic capture in Wireshark*
 
