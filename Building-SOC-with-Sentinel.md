@@ -33,7 +33,7 @@ The purpose of this lab was to build a fully operational Security Operations Cen
    - Integrated the VM's event logs with Azure Log Analytics by using the Windows Security Events Data Connector.
    - Created a Data Collection Rule (DCR) to ensure logs from the VM were properly collected and forwarded to the Sentinel instance.
 
-   ![VM Log Collection](images/Screenshot-2024-08-24-1.png)
+   ![VM Log Collection](images/image1.png)
    *Ref 1: Log collection configuration in Azure Sentinel*
 
 4. **Configuring Custom Alert Rules:**
